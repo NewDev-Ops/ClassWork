@@ -122,8 +122,8 @@ if __name__ == "__main__":
 
 
     print("Breadth First Search")
-    print(test.bfs("B"))
+    print(test.bfs("A"))
 
 
     print("Depth-First Search")
-    print(test.dfs("D"))
+    print(test.dfs("A"))
